@@ -2,9 +2,19 @@
 
 This is a weather application for Android.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.jpeg" width="250">
+  <img src="screenshots/forecast1.jpeg" width="250">
+  <img src="screenshots/forecast2.jpeg" width="250">
+  <img src="screenshots/forecast3.jpeg" width="250">
+  <img src="screenshots/air_quality.jpeg" width="250">
+</p>
+
 ## Features
 
-*   Displays current weather conditions.
+*   Displays current weather conditions
 *   Provides hourly and weekly weather forecasts.
 *   Shows air quality information.
 *   Offers lifestyle tips based on the weather.
