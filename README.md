@@ -5,11 +5,11 @@ This is a weather application for Android.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="200" Height="400">
-  <img src="screenshots/forecast1.jpeg" width="200" Height="400">
-  <img src="screenshots/forecast2.jpeg" width="200" Height="400">
-  <img src="screenshots/forecast3.jpeg" width="200" Height="400">
-  <img src="screenshots/air_quality.jpeg" width="200" Height="400">
+  <img src="screenshots/home.jpeg" width="100" Height="300">
+  <img src="screenshots/forecast1.jpeg" width="100" Height="300">
+  <img src="screenshots/forecast2.jpeg" width="100" Height="300">
+  <img src="screenshots/forecast3.jpeg" width="100" Height="300">
+  <img src="screenshots/air_quality.jpeg" width="100" Height="300">
 </p>
 
 ## Features
